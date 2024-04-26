@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on web development and 3D visualization projects
-🌱 I’m currently learning WebGL, Three.js, and other 3D technologies
-💬 Ask me about front-end development, web design, or 3D graphics
-📫 How to reach me: You can reach me through my email at [chen17735486692@163.com]
-😄 Pronouns: She/Her
-⚡ Fun fact: I love to travel and explore new places in my free time
+- 🔭 I’m currently working on web development and 3D visualization projects
+- 🌱 I’m currently learning WebGL, Three.js, and other 3D technologies
+- 💬 Ask me about front-end development, web design, or 3D graphics
+- 📫 How to reach me: You can reach me through my email at [chen17735486692@163.com]
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love to travel and explore new places in my free time
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleBoBo-beep)](https://github.com/anuraghazra/github-readme-stats)
